@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameManager.cs">
+    <Files>
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\FirstPlayable.sln" Line="1" Column="1" />
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\Assets\GameManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\Assets\ExhaustBehavior.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\Assets\ExplosionBehavior.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\Assets\SoundManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\Assets\ShipBehavior.cs" Line="141" Column="32" />
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\Assets\ProjectileBehavior.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Summer\GAM400\FirstPlayable\Assets\CameraBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="325" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
